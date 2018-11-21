@@ -60,6 +60,7 @@ Push-Location -Path $sdk.FullName
     "platforms;android-17" `
     "platforms;android-15" `
     "platforms;android-10" `
+    "build-tools;28.0.3" `
     "build-tools;28.0.0" `
     "build-tools;27.0.3" `
     "build-tools;27.0.1" `
